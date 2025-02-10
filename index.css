@@ -23,6 +23,7 @@ body{
 .logo{
     color: var(--color-white);
     font-size: 30px;
+    padding-left:30px;
 }
 .logo span{
     color: var(--color-primary);
