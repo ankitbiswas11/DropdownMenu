@@ -87,3 +87,26 @@ body{
     background-color: var(--color-black);
 }
 /* **************************************************** */
+.a-Block{
+    width: 100%;
+    height: 40%;
+    padding: 60px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+}
+.B-Block{
+    width: 100%;
+    height: 300px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.C-Block{
+    width: 40%;
+    text-align: center;
+}
